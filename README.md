@@ -2,7 +2,7 @@
 
 - 担当：川嶋宏彰
 
-- [パート1（データの収集） (4/28)](slide/SISIntro2021_kawashima-01.pdf)
+- [パート1（データの収集） (4/29)](slide/SISIntro2021_kawashima-01.pdf)
 - 5/6 は笹嶋先生回
 
 <!-- - [パート2（データと統計 + データとプログラム：基礎編) (5/13)](slide/SISIntro2021_kawashima-02.pdf)
